@@ -1,3 +1,3 @@
-##git learning
-#author
-*ershao
+## git learning
+# author
+* ershao
